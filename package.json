@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/CuervoOFC/Hajime-Bot",
+"homepage": "https://github.com/CuervoOFC/PREBOT",
 "author": {
 "name": "CuervoOFC"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/CuervoOFC/Hajime-Bot.git"
+"url": "git+https://github.com/CuervoOFC/PREBOT.git"
 },
 "bugs": {
-"url": "https://github.com/CuervoOFC/Hajime-Bot/issues"
+"url": "https://github.com/CuervoOFC/PREBOT/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
