@@ -6,7 +6,7 @@
   </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-***[GROUP](https://chat.whatsapp.com/BirtaUEbtvR6sWjCvBbEXc)***
+***[GRUPO](https://chat.whatsapp.com/BirtaUEbtvR6sWjCvBbEXc)***
 
 
 ------------------------------------------
@@ -15,7 +15,7 @@
 
 -------------------------
 
-***BOT FEATURES 💌***
+***BOT FUNCIONES 💌***
 
 | Menu ⁠➜ | Bot | Group | Search | Download | Tools | Ai | Game | Fun | Owner | Bug | Convert | List |
 | --------| --- | ----- | ------ | -------- | ----- | -- | ---- | --- | ----- | ----| --------| -----|
@@ -23,7 +23,7 @@
 
 ---------------------
 
-*****DEPLOYMENT SITE👇*****
+*****EJECUTAR EN*****
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CuervoOFC/PREBOT)
   
@@ -41,7 +41,7 @@
 
 ----------------------
 
-<h2 align="center">  NOTICE
+<h2 align="center">  INFORMACION
 </h2>
    
  
