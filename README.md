@@ -45,8 +45,10 @@
 </h2>
    
  
-- *`Cuervo-Team-Supreme are made by a student if you see any errors please submit a pull request`*
-- *`I may help you in bot deployment and bot code editing if i have time to do so`*
+- *`Cuervo-Team-Supreme creo el bot como pasatiempo, Si ve algún error, envíe una solicitud de extracción.`*
+  
+- *`Puedo ayudarle en la implementación del bot y en la edición del código del bot si tengo tiempo para hacerlo.`*
+
 - *[Noticias](https://whatsapp.com/channel/0029VaWcBCgCXC3NZU4GVA2c)*
 
 
